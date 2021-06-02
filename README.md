@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Virtuxdev
 - 👀 I’m interested in game modding
-- 🌱 I’m currently learning how to mod android games
-- 💞️ I’m looking to collaborate on projects rrelated to this
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on projects related to this
 - 📫 How to reach me? Is easy, im just noob
 
 <!---
