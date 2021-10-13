@@ -2,7 +2,7 @@
 - 👀 I’m interested in game modding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects related to this
-- 📫 How to reach me? Is easy, my discord is ! Virtux#5968, my telegram @im_not_angel_girl :)
+- 📫 How to reach me? Is easy, my discord is ! Virtux#5968, my telegram @im_not_angel_girl 
                               
 
 <!---
