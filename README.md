@@ -1,6 +1,6 @@
-i will update this stuff
-im currently working on a stealth server :)
-To contact me, my discord is ! Virtux#5968
+- i will update this stuff
+- im currently working on a stealth server :)
+- To contact me, my discord is ! Virtux#5968
                               
 
 <!---
